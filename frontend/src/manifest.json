@@ -1,0 +1,22 @@
+{
+  "name": "美食转盘",
+  "appid": "",
+  "description": "选择困难症的救星：转一下，决定这顿吃什么",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false
+    },
+    "usingComponents": true
+  },
+  "h5": {
+    "title": "今天吃什么"
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "vueVersion": "3"
+}
